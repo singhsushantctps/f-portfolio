@@ -48,4 +48,19 @@ ul {
         position: relative;
         left: 30px;
     }
+
+    #p {
+        font-size: 155%;
+        word-spacing: 20px;
+        
+    } 
+    #name {
+        font-size: 175%;
+        margin-top: 10px;
+    }
+    #text{
+        color: #f3d0d3;
+        font-size: 120%;
+    }
+    
    
