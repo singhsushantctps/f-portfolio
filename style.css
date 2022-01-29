@@ -55,8 +55,9 @@ ul {
         
     } 
     #name {
-        font-size: 175%;
+        font-size: 350%;
         margin-top: 10px;
+        font-family: 'Sacramento', cursive;
     }
     #text{
         color: #f3d0d3;
