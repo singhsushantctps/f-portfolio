@@ -64,4 +64,27 @@ ul {
         font-size: 120%;
     }
     
+    #text::after{
+        content: "";
+        position: absolute;
+        right:-5px;
+        width:3px;
+         height:80%; 
+        border-right: 2px solid rgb(36, 30, 30);
+        animation: blink 1s infinite ease;
+        position: relative;
+        top:6px;
+      
+      }
+      @keyframes blink {
+        0%{
+          opacity:0;
+      
+        }
+        100%{
+          opacity: 1;
+        }
+      
+      }
+      
    
