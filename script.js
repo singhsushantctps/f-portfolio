@@ -1,4 +1,5 @@
-const texts =["web developer","Cricket lover"];
+// for intro
+const texts =["proud Indian","web developer","Cricket lover"];
 
 let count = 0;
 let index = 0;
@@ -19,3 +20,7 @@ let letter = " ";
   }
   setTimeout(type,350);
 })();
+
+
+
+
