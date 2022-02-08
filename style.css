@@ -90,7 +90,7 @@ ul {
 
 
       /* About started */
-     .about{
+     .abo{
          height: 100vh;
          background: linear-gradient(to bottom, #D5DEE7 0%, #E8EBF2 50%, #E2E7ED 100%), linear-gradient(to bottom, rgba(0,0,0,0.02) 50%, rgba(255,255,255,0.02) 61%, rgba(0,0,0,0.02) 73%), linear-gradient(33deg, rgba(255,255,255,0.20) 0%, rgba(0,0,0,0.20) 100%);
  background-blend-mode: normal,color-burn;
@@ -153,14 +153,14 @@ ul {
 
 
      /* skill css started */
-     .skill{
+     /* .skill{
          height: 100vh;
          background-image: radial-gradient(73% 147%, #EADFDF 59%, #ECE2DF 100%), radial-gradient(91% 146%, rgba(255,255,255,0.50) 47%, rgba(0,0,0,0.50) 100%);
  background-blend-mode: screen;
  
 
 
-     }
+     } */
      #s{
          display: flex;
          align-items: center;
@@ -176,15 +176,29 @@ ul {
          font-weight: 500;
          color: rgb(5, 46, 46);
      }
-    /* .progress{
-        position: relative;
-        width: 50%;
-        margin-bottom: 25px;
-         left: 55%;  */
-    /* } */
-    /* .ski{
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    } */
-     
+   #skills{
+       height:100vh;
+       text-align: center;
+
+   }
+   #skills h1{
+       padding-bottom: 40px;
+       padding-top: 15px;
+   }
+   #skills h3{
+       padding-bottom: 20px;
+       padding-top: 20px;
+   }
+   .col-12{
+       padding-bottom: 45px;
+   }
+  
+  
+
+  
+
+/* table tr{
+    margin: 25px;
+} */
+
+
