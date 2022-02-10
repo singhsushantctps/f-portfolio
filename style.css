@@ -46,9 +46,7 @@ ul {
     .home{
         height: 100vh; 
         background-image: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%);
-        border-left:15px solid white;
-   border-right:15px solid white;
-   border-top:20px solid white;
+       
     }
     .conc ul li{
         padding-right: 20px;
@@ -275,7 +273,7 @@ ul {
     margin: 0;
     color: white;
     left: 75%;
-    top: 65%;
+    top: 75%;
     transform: translate(-50%, -50%);
   }
   
