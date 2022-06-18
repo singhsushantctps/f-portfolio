@@ -276,5 +276,23 @@ ul {
     top: 75%;
     transform: translate(-50%, -50%);
   }
+  #Project h1{
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 15px;
+
+  }
+  #Project{
+    background-color: #d8e7f1;
+    border-left:20px solid white;
+    border-right:20px solid white;
+    
+    
+  }
+
+ 
+  
+  
+  
   
  
