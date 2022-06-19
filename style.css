@@ -280,12 +280,14 @@ ul {
     text-align: center;
     padding-bottom: 30px;
     padding-top: 15px;
+    color: #06334d;
 
   }
   #Project{
     background-color: #d8e7f1;
     border-left:20px solid white;
     border-right:20px solid white;
+    padding-left: 35px;
     
     
   }
